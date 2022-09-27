@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23315ec3-8498-4d44-847f-a702ee585f59" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ds-algos-kt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section1/chapter1/E1Intro.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="23315ec3-8498-4d44-847f-a702ee585f59" name="Changes" comment="E1Intro.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/section1/chapter1/E2StdLib.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +39,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.E2StdLibKt">
     <configuration name="E1IntroKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section1.chapter1.E1IntroKt" />
       <module name="ds-algos-kt" />
@@ -52,8 +47,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="E2StdLibKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section1.chapter1.E2StdLibKt" />
+      <module name="ds-algos-kt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.E2StdLibKt" />
         <item itemvalue="Kotlin.E1IntroKt" />
       </list>
     </recent_temporary>
@@ -66,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664264653368</updated>
-      <workItem from="1664264656350" duration="2136000" />
+      <workItem from="1664264656350" duration="3194000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1664264939817</created>
@@ -75,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664264939817</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="E1Intro.kt">
+      <created>1664267179764</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664267179764</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="E1Intro.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="E1Intro.kt" />
   </component>
 </project>
